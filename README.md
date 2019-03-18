@@ -37,8 +37,6 @@ $ cd LaravelENV/
 
 $ python eNv.py
 
-<img src="Screenshot/Laravel-Screenshot.png">
-
 ## How to secure .env file in laravel using file permission?
 
 Add this code in .htaccess file
